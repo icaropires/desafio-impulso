@@ -26,7 +26,9 @@ com isso, consequentemente o IDH muito provavelmente será também parecido e os
 **(b) Descreva 2 (duas) análises ou visualizações que você montaria para comparar a situação entre esses municípios.**
 
 1. **Recursos disponíveis.**
+
 Indicadores:
+
 * Número de leitos/respiradores disponíveis
 * Número de leitos/respiradores total
 * Número de testes disponíveis
@@ -37,10 +39,12 @@ Indicadores:
 Aqui boa parte dos tipos de gráficos não atenderia, por estarmos tratando de valores com escalas muito diferentes entre sí.
 Provavelmente uma dashboard com textos, com valores absolutos, mas com fontes de tamanhos variados, cores e ícones já atenderia ao objetivo.
 
-2. Pessoas infectadas
+2. **Pessoas infectadas**
+
 Indicadores:
+
 * Quantidade da população que já pegou o vírus
-* Quantidade de pessoas que veio a falecer
+* Quantidade acumulada de pessoas que veio a falecer
 * Quando aconteceu (ou está previsto) o pico da doença
 
 Aqui, um simples gráfico em barras, normalizando os valores pela porcentagem da população, já atenderia aos primeiros dois
@@ -50,4 +54,4 @@ bem visível, e, por consequência, os pontos críticos da curva.
 
 #### 2. Como você montaria um dashboard para a gestão municipal? (Jupyter notebook)
 
-Disponível no jupyter `30-08 Desafio Análise de Dados.ipynb`
+Disponível [neste notebook](https://github.com/icaropires/desafio-impulso/blob/master/30-08%20Desafio%20An%C3%A1lise%20de%20Dados.ipynb)
