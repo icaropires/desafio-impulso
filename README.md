@@ -36,8 +36,8 @@ Indicadores:
 * Dinheiro já investido no combate ao vírus (incluindo públicas, ajuda humanitária, etc.)
 * Nível de desemprego
 
-Aqui boa parte dos tipos de gráficos não atenderia, por estarmos tratando de valores com escalas muito diferentes entre sí.
-Provavelmente uma dashboard com textos, com valores absolutos, mas com fontes de tamanhos variados, cores e ícones já atenderia ao objetivo.
+Para esse caso, a maior parte dos tipos de gráficos não atenderia, por estarmos tratando de valores com escalas muito diferentes entre sí.
+Provavelmente uma dashboard com textos, com valores absolutos, mas com fontes de tamanhos e cores variadas, além de ícones, já atenderia ao objetivo.
 
 2. **Pessoas infectadas**
 
@@ -47,7 +47,7 @@ Indicadores:
 * Quantidade acumulada de pessoas que veio a falecer
 * Quando aconteceu (ou está previsto) o pico da doença
 
-Aqui, um simples gráfico em barras, normalizando os valores pela porcentagem da população, já atenderia aos primeiros dois
+Neste segundo caso, um simples gráfico em barras, normalizando os valores pela porcentagem da população, já atenderia aos primeiros dois
 tópicos. Sobre a data do pico, o ideal seria um gráfico em linha, em que o aumento ou diminuição da taxa de casos fique
 bem visível, e, por consequência, os pontos críticos da curva.
 
